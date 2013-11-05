@@ -1,4 +1,5 @@
-﻿Markdown 语法说明
+﻿Markdown 语法说明 
+==================
 转自：[原始链接](http://wowubuntu.com/markdown/ "markdown语法说明") 
 + 概述
 	+ 宗旨
