@@ -21,4 +21,23 @@
 + [其他](#misc)  
 	+ [反斜杠](#backslash)  
 	+ [自动链接](#autolink)  
+<h1 id="overview">概述</h1>
+<h2 id="philosophy">宗旨</h2>
+<h2 id="html">兼容HTML</h2>
+<h2 id="antoescape">特殊字符自动转换</h2>
+<h1 id="block">区块元素</h1>
+<h2 id="header">标题</h2>
+<h2 id="blockquote">区块引用</h2>
+<h2 id="list">列表</h2>
+<h2 id="precode">代码区块</h2>
+<h2 id="hr">分割线</h2>
+<h1 id="span">区段元素</h1>
+<h2 id="jump">跳转</h2>
+<h2 id="link">链接</h2>
+<h2 id="em">强调</h2>
+<h2 id="code">代码</h2>
+<h2 id="img">图片</h2>
+<h1 id="misc">其他</h1>
+<h2 id="backslash">反斜杠</h2>
+<h2 id="autolink">自动链接</h2>
 
